@@ -1,6 +1,6 @@
 Name:		texlive-zhlipsum
 Version:	54994
-Release:	1
+Release:	2
 Summary:	Chinese dummy text
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zhlipsum
